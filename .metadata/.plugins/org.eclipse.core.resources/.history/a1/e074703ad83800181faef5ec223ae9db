@@ -1,0 +1,5 @@
+package SalesMessageProcessor;
+
+public class Sale {
+
+}
